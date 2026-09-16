@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录阅读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 066 篇 - 百家乐Ai预测分析工具：金额单位与小数精度需要统一说明](https://github.com/TGmszrcsz/baccarat-ai-066) ｜ [下一篇：第 068 篇 - 百家乐Ai预测分析工具：从期初到期末检查账务数据的连贯性](https://github.com/TGmszrcsz/baccarat-ai-068)
+
+<!-- article-chain:end -->
+
 记录在次日入账，报表却归入前一天。本篇围绕“交易日期与业务归属日期可以不同”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
